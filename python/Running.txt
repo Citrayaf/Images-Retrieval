@@ -1,0 +1,7 @@
+python example_process_images.py
+
+running untuk download gambar dan proses gambar
+
+python example_evaluate.py
+
+Untuk evaluasi dapetin hasil
